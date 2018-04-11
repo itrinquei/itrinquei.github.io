@@ -3,9 +3,15 @@
 		<loc>http://itrinquei.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://itrinquei.com/servicos.html</loc>
+		<loc>http://itrinquei.com/conserto_macbook.html</loc>
 	</url>
 	<url>
-		<loc>http://itrinquei.com/contato.html</loc>
+		<loc>http://itrinquei.com/conserto_iphone.html</loc>
+	</url>
+	<url>
+		<loc>http://itrinquei.com/servicos_manutencao_iphone_mac.html</loc>
+	</url>
+	<url>
+		<loc>http://itrinquei.com/contato_reparo_apple.html</loc>
 	</url>
 </urlset>

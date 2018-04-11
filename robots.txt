@@ -2,3 +2,4 @@ Sitemap: http://www.itrinquei.com/sitemap.xml
 
 User-agent: *
 Disallow: /cgi-bin
+
