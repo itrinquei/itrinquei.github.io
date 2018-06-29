@@ -1,17 +1,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://itrinquei.com/index.html</loc>
+		<loc>http://www.itrinquei.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://itrinquei.com/conserto_macbook.html</loc>
+		<loc>http://www.itrinquei.com/assistencia_apple_macbook.html</loc>
 	</url>
 	<url>
-		<loc>http://itrinquei.com/conserto_iphone.html</loc>
+		<loc>http://www.itrinquei.com/assistencia_apple_iphone.html</loc>
 	</url>
 	<url>
-		<loc>http://itrinquei.com/servicos_manutencao_iphone_mac.html</loc>
+		<loc>http://www.itrinquei.com/assistencia_apple_servicos.html</loc>
 	</url>
 	<url>
-		<loc>http://itrinquei.com/contato_reparo_apple.html</loc>
+		<loc>http://www.itrinquei.com/contato_assistencia_apple_reparo.html</loc>
 	</url>
 </urlset>
+
+
