@@ -1,17 +1,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.itrinquei.com/index.html</loc>
+		<loc>https://www.itrinquei.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://www.itrinquei.com/assistencia_apple_macbook.html</loc>
+		<loc>https://www.itrinquei.com/assistencia_apple_macbook.html</loc>
 	</url>
 	<url>
-		<loc>http://www.itrinquei.com/assistencia_apple_iphone.html</loc>
+		<loc>https://www.itrinquei.com/assistencia_apple_iphone.html</loc>
 	</url>
 	<url>
-		<loc>http://www.itrinquei.com/assistencia_apple_servicos.html</loc>
+		<loc>https://www.itrinquei.com/assistencia_apple_servicos.html</loc>
 	</url>
 	<url>
-		<loc>http://www.itrinquei.com/contato_assistencia_apple_reparo.html</loc>
+		<loc>https://www.itrinquei.com/contato_assistencia_apple_reparo.html</loc>
+	</url>
+	<url>
+		<loc>https://www.itrinquei.com/assistencia_apple_cabo_queimado.html</loc>
+	</url>
+	<url>
+		<loc>https://www.itrinquei.com/iphone_cabo_original.html</loc>
+	</url>
+	<url>
+		<loc>https://www.itrinquei.com/macbook_imac_ssd.html</loc>
 	</url>
 </urlset>
